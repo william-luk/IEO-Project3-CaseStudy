@@ -2,6 +2,8 @@
 
 In this project, students are asked to develop their Project 2 prototypes into a conceptualized application of their sensors and physical computing systems. As they proceeded in each process of Project 1 and 2, the next step is to visualize how their prototypes may be used, how they should function and what new ideas can be created in their design research.
 
+Students will have the opportunity to continue their prototype exploration and/or apply design research to add validity, robustness and feasibility of their prototype's design, technology, idea and concepts. Students will gain more advanced skills in their design process to sell prototypes in the industry or pitch.
+
 ### Markdown
 
 
