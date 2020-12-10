@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## IEO 1 Products: Project 3 Case Study
 
-You can use the [editor on GitHub](https://github.com/william-luk/williamluk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this project, students are asked to develop their Project 2 prototypes into a conceptualized application of their sensors and physical computing systems. As they proceeded in each process of Project 1 and 2, the next step is to visualize how their prototypes may be used, how they should function and what new ideas can be created in their design research.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
