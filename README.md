@@ -1,4 +1,5 @@
-# Your Experience is My Experience - Visualizing an Installation for Group Interaction
+# Your Experience is My Experience 
+# - Visualizing an Installation for Group Interaction
 
 In this project, students are asked to develop their Project 2 prototypes into a conceptualized application of their sensors and physical computing systems. As they proceeded in each process of Project 1 and 2, the next step is to visualize how their prototypes may be used, how they should function and what new ideas can be created in their design research.
 
