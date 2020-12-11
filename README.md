@@ -11,16 +11,7 @@ This case study will explore the application, technicality and conceptualization
 ### Where does this work?
 #### FINDING THE APPLICATION OF THE PHYSICAL PROTOTYPE
 
-In the previous project, Michael and William developed a two way communication device using Adafruit IO, ESP8266 Feather HUZZAH and p5js to trigger a simple change on the button press to a p5 sketch, [shown here](https://www.youtube.com/watch?v=kvUjG0uZmqE).
-<div align="center">
-      <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y">
-     <img 
-      src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" 
-      alt="Everything Is AWESOME" 
-      style="width:100%;">
-      </a>
-    </div>
-The technical features of the controller were thoroughly established as the team believed it to be beneficial to start design research and "theory-crafting" potential solutions and applications of their controller.
+In the previous project, Michael and William developed a two way communication device using Adafruit IO, ESP8266 Feather HUZZAH and p5js to trigger a simple change on the button press to a p5 sketch, [shown here](https://www.youtube.com/watch?v=kvUjG0uZmqE). The technical features of the controller were thoroughly established as the team believed it to be beneficial to start design research and "theory-crafting" potential solutions and applications of their controller.
 
 Working through the Design Matrix, the team produced several project ideas of how their system can be used. A design matrix is a guideline for generation design concepts and discovering meaningful areas of exploration for physical computing projects. Using a design matrix provided to students, 3 categories named "Design Taxonomy", "Area of Focus" and "Sensory Environment" with relevant sub-categories helped to direct the potential nature and use of prototype controller. Using the matrix, the team established:
 
