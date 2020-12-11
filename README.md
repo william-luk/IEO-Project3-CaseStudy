@@ -15,7 +15,6 @@ In the previous project, Michael and William developed a two way communication d
 
 Working through the Design Matrix, the team produced several project ideas of how their system can be used. A design matrix is a guideline for generation design concepts and discovering meaningful areas of exploration for physical computing projects. Using a design matrix provided to students, 3 categories named "Design Taxonomy", "Area of Focus" and "Sensory Environment" with relevant sub-categories helped to direct the potential nature and use of prototype controller. Using the matrix, the team established:
 
-```markdown
 **Design Taxonomy**
 * Crowd Participation
   - Increased number of users enhance or instigate increased physical/ emotional/ media/computational response
@@ -36,7 +35,7 @@ Working through the Design Matrix, the team produced several project ideas of ho
   
 * Sound: Sonification
   - Using non-speech audio to perceptualize data.
-```
+
 
 
 
