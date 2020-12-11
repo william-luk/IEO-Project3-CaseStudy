@@ -46,4 +46,6 @@ With the framework and Bodystorming, the team created a general conceptual visio
 ### Prototype 1.0
 #### PITCHING AND REFINING THE IDEA
 
-![Prototype 1-A](/images/TDMovieOut.0.jpg)
+![Prototype 1-A](/images/TDMovieOut.0.jpg) ![Prototype 1-A](/images/TDMovieOut.1.jpg)
+
+"If we had the ability to create a bodystorming process video, we would have multiple participants holding our controller as they travel through a room with blank white walls. The ambient light would be darkened to help heighten the experience and atmosphere. While they walk, participants can trigger the button on their controllers to activate changes when they are near an “image” produced by a projector. If there are more than 1 participants near a projection, multiple changes are made to the “image.” A combination of our previous Adafruit IO two way communication, geolocation to track location of each participant and now TouchDesigner will be used to imagine this interactive installation."
