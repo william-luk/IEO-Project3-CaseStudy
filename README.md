@@ -1,4 +1,4 @@
-# Your Experience is My Experience 
+# Your Experience is My Mine
 ## Visualizing an Installation for Group Interaction
 
 In this project, students are asked to develop their Project 2 prototypes into a conceptualized application of their sensors and physical computing systems. As they proceeded in each process of Project 1 and 2, the next step is to visualize how their prototypes may be used, how they should function and what new ideas can be created in their design research.
@@ -8,8 +8,8 @@ Students will have the opportunity to continue their prototype exploration and/o
 This case study will explore the application, technicality and conceptualization in practice of a two-way communication button developed by Michael Brzuchalski and William Luk. Due to COVID-19 safety measures, in person development of physical group ideation and prototyping did not happen. Efforts to communicate ideation strategies and activities in text will be used.
 
 <br/>
-### Where does this work?
-#### FINDING THE APPLICATION OF THE PHYSICAL PROTOTYPE
+## Where does this work?
+### FINDING THE APPLICATION OF THE PHYSICAL PROTOTYPE
 
 In the previous project, Michael and William developed a two way communication device using Adafruit IO, ESP8266 Feather HUZZAH and p5js to trigger a simple change on the button press to a p5 sketch, [shown here](https://www.youtube.com/watch?v=kvUjG0uZmqE). The technical features of the controller were thoroughly established as the team believed it to be beneficial to start design research and "theory-crafting" potential solutions and applications of their controller.
 
