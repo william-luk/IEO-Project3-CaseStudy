@@ -12,6 +12,8 @@ This case study will explore the application, technicality and conceptualization
 ### where does this apply?
 ##### finding the application of the sensor prototype
 
+In the previous project, Michael and William developed a two way communication device using Adafruit IO, ESP8266 Feather HUZZAH and p5js to trigger a simple change on the button press to a p5 sketch, [shown here](https://www.youtube.com/watch?v=kvUjG0uZmqE). The technical features of the controller were thoroughly established as the team believed it to be beneficial to start design research and "theory-crafting" potential solutions and applications of their controller.
+
 
 ### Markdown
 
