@@ -10,9 +10,17 @@ This case study will explore the application, technicality and conceptualization
 
 
 ### where does this apply?
-##### finding the application of the sensor prototype
+#### finding the application of the sensor prototype
 
 In the previous project, Michael and William developed a two way communication device using Adafruit IO, ESP8266 Feather HUZZAH and p5js to trigger a simple change on the button press to a p5 sketch, [shown here](https://www.youtube.com/watch?v=kvUjG0uZmqE). The technical features of the controller were thoroughly established as the team believed it to be beneficial to start design research and "theory-crafting" potential solutions and applications of their controller.
+
+Working through the Design Matrix, the team produced several project ideas of how their system can be used. A design matrix is a guideline for generation design concepts and discovering meaningful areas of exploration for physical computing projects. Using a design matrix provided to students, 3 categories named "Design Taxonomy", "Area of Focus" and "Sensory Environment" with relevant sub-categories helped to direct the potential nature and use of prototype controller. Using the matrix, the team established:
+
+Design Taxonomy
+* Crowd Participation
+  - Increased number of users enhance or instigate increased physical/ emotional/ media/computational response
+
+
 
 
 ### Markdown
