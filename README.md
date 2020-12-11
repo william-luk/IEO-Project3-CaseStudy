@@ -19,7 +19,20 @@ Working through the Design Matrix, the team produced several project ideas of ho
 Design Taxonomy
 * Crowd Participation
   - Increased number of users enhance or instigate increased physical/ emotional/ media/computational response
-
+  
+Area of Focus
+* Media Architecture
+  - Computational display systems incorporated into the physical landscape including screens, lights, and projections.
+  
+Sensory Environment
+* Visual: Graphic
+  - 2D physical imaging technologies that use pigment or found objects, including printing, painting, and mixed media.
+* Visual: Distorion
+  - Intentionally or randomly affecting the pattern of a series or sequence of light/pixels/images.
+* Sound: Distortion/Generation
+  - Intentionally or randomly affecting the pattern of, or creating of, an audio wave or series.
+* Sound: Sonification
+  - Using non-speech audio to perceptualize data.
 
 
 
