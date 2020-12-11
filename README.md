@@ -46,9 +46,11 @@ With the framework and Bodystorming, the team created a general conceptual visio
 ### Prototype 1.0
 #### PITCHING AND REFINING THE IDEA
 
-![Prototype 1-A](/images/TDMovieOut.0.jpg) ![Prototype 1-A](/images/TDMovieOut.1.jpg)
+![Prototype 1-A](/images/TDMovieOut.0.jpg) ![Prototype 1-B](/images/TDMovieOut.1.jpg) ![Prototype 1-C](/images/TDMovieOut.2.jpg) ![Prototype 1-D](/images/TDMovieOut.3.jpg)
 
 
 >"If we had the ability to create a bodystorming process video, we would have multiple participants holding our controller as they travel through a room with blank white walls. The ambient light would be darkened to help heighten the experience and atmosphere. While they walk, participants can trigger the button on their controllers to activate changes when they are near an “image” produced by a projector. If there are more than 1 participants near a projection, multiple changes are made to the “image.” 
 A combination of our previous Adafruit IO two way communication, geolocation to track location of each participant and now TouchDesigner will be used to imagine this interactive installation."
+
+In this first prototype, the team provided a live demonstration to show the validity of the interaction between the Feather controller and TouchDesigner. Michael's button changed the colour of the texture while William's button changed the number of textures. This was done by using the Adafruit IO server JSON data and parsing the information into TouchDesigner. The 3D mockup helped to visualize a room with a projection onto the ground, where it would track an individual. The the button press, participants would change the visualization of the projection.
 
