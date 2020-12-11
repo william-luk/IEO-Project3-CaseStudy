@@ -43,8 +43,8 @@ In our best efforts, we will provide a detailed description to help with visuali
 With the framework and Bodystorming, the team created a general conceptual vision for the controller. A walkaround installation that focuses on group interactivity.
 
 <br/>
-### Prototype 1.0
-#### PITCHING AND REFINING THE IDEA
+## Prototype 1.0
+### PITCHING AND REFINING THE IDEA
 
 ![Prototype 1-A](/images/TDMovieOut.0.jpg) ![Prototype 1-B](/images/TDMovieOut.1.jpg) ![Prototype 1-C](/images/TDMovieOut.2.jpg) ![Prototype 1-D](/images/TDMovieOut.3.jpg)
 
@@ -57,4 +57,12 @@ In this first prototype, the team provided a live demonstration to show the vali
 After showing the prototype pitch for critique, there were interesting developments to extend the technicality and sophistication of the installation. The rudimentary button press is sufficient on its own to trigger a response, but a discussion of human interaction was sparked. Expanding outward from a simple button press, the team discovered an important affordance to achieve in support for stronger user experience:
 
 **Autonomous Interaction + Forced Group Interaction**
+
+Autonomous Interaction is the code and the sensors that drive subconscious freeplay. By just being around the projection and tracking passive human interaction like location, body count or walking, the installation establishes an invitation for users to play. As soon as users notice their basic actions or behaviour are having a direct, but minor change to the projection, curiosity will develop into active human interaction. This is when users exaggerate their limb movements and start to ask “What can I do to get a reaction?” At this point we hope to develop a Forced Group Interaction, a series of reactions that only occur and only continue when people are engaged in collaborative action.
+
+Additional interactions can include microphones for auditory sensory. Noise gates would be used to filter a minimal amount of participant sound. When the number of participants increase, the ambient sound increases and triggers a change. Cameras for limb and facial tracking can be used for more complex features. From this important discussion, the team asked "What interactions can inform new physical computing from TouchDesigner and controller prototype?"
+
+<br/>
+## More than Magic
+### EXPLORING THE TECHNOLOGY THAT MAKES THIS REAL
 
