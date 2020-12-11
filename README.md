@@ -8,7 +8,7 @@ Students will have the opportunity to continue their prototype exploration and/o
 This case study will explore the application, technicality and conceptualization in practice of a two-way communication button developed by Michael Brzuchalski and William Luk. Due to COVID-19 safety measures, in person development of physical group ideation and prototyping did not happen. Efforts to communicate ideation strategies and activities in text will be used.
 
 <br/>
-### Where does this apply?
+### Where does this work?
 #### FINDING THE APPLICATION OF THE PHYSICAL PROTOTYPE
 
 In the previous project, Michael and William developed a two way communication device using Adafruit IO, ESP8266 Feather HUZZAH and p5js to trigger a simple change on the button press to a p5 sketch, [shown here](https://www.youtube.com/watch?v=kvUjG0uZmqE). The technical features of the controller were thoroughly established as the team believed it to be beneficial to start design research and "theory-crafting" potential solutions and applications of their controller.
@@ -36,38 +36,12 @@ Working through the Design Matrix, the team produced several project ideas of ho
 * Sound: Sonification
   - Using non-speech audio to perceptualize data.
 
+In addition to the Design Matrix, the team also described how Bodystorming would have worked if were possible. Bodystorming is a form of ideation like brainstorming, but performed physically. This provides necessary testing on the real application and how an idea should be executed. For some, it may be difficult to completely visualize a concept in their mind, so these bodystorming activities provide physical and tangible examples of what should happen.
 
+In our best efforts, we will provide a detailed description to help with visualization. We would have participants walking around in a hallway or a path with propped up walls that are white. As they are walking, participants hold the controllers in hand and arrive in a specific location. When they gather in the specific location with the right amount of people and with a coordinated button press, a production team would flash RGB lights onto the walls, turn on sounds and change images on the wall.
 
+With the framework and Bodystorming, the team created a general conceptual vision for the controller. A walkaround installation that focuses on group interactivity.
 
-
-### Markdown
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/william-luk/williamluk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<br/>
+### Prototype 1.0
+#### PITCHING AND REFINING THE IDEA
