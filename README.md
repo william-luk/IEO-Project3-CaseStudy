@@ -7,7 +7,7 @@ Students will have the opportunity to continue their prototype exploration and/o
 
 This case study will explore the application, technicality and conceptualization in practice of a two-way communication button developed by Michael Brzuchalski and William Luk. Due to COVID-19 safety measures, in person development of physical group ideation and prototyping did not happen. Efforts to communicate ideation strategies and activities in text will be used.
 
--
+<br/><br/>
 
 ### where does this apply?
 #### finding the application of the sensor prototype
