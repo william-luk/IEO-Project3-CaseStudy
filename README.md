@@ -64,9 +64,11 @@ Additional interactions can include microphones for auditory sensory. Noise gate
 
 <br/>
 ## More than Magic
-### EXPLORING OPTIONS THAT MAKES THIS REAL
+### EXPLORING OPTIONS FOR INTERACTION
 
 Currently, the Feather HUZZAH still seems to be the best option for to use. Other microcontrollers with integrated microphones, camera and sensors under Adafruit distribution will work. This is necessary as Adafruit IO comes free with the server storage for reading sensor inputs and outputs. The majority of parsed data that works in this project and the previous comes from the JSON provided by Adafruit IO's service. Adafruit IO's only issue is the free subscription limitations to data rates when sending information to their servers. Increasingly more powerful physical components would be important to mention as with more participants, the greater the chance for error.
+
+Other Adafruit computing components are available for use such as the [Adafruit Feather RFM69HCW](https://www.adafruit.com/product/3176). This Radio transceiver can be used to [communicate with other RFM69 radios](https://learn.adafruit.com/adafruit-feather-m0-radio-with-rfm69-packet-radio/using-the-rfm69-radio), to drive the effect of Forced Group Interaction.
 
 While it would be beneficial to integrate devices particpants already have such as their phones, multiple steps would be needed for complete integration. App development is paramount, with enabled features to collect data with the built in geolocation, accelerometers, cameras and microphones. A major issue to address are the privacy concerns due to the nature of the interactions the installation. There must be willful consent for the collection of participant's information. Some will not agree to the notion, being perceived as a form of surveillance. Should this be applicable, next would be to store the information to a server.
 >Additionally, this would require mobile app development which is out of the realm of current IXD curriculum and an external team.
