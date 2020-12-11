@@ -9,8 +9,8 @@ This case study will explore the application, technicality and conceptualization
 
 
 
-#### where does this apply?
-###### finding the application of the sensor prototype
+### where does this apply?
+##### finding the application of the sensor prototype
 
 
 ### Markdown
