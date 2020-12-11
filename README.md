@@ -16,21 +16,24 @@ In the previous project, Michael and William developed a two way communication d
 
 Working through the Design Matrix, the team produced several project ideas of how their system can be used. A design matrix is a guideline for generation design concepts and discovering meaningful areas of exploration for physical computing projects. Using a design matrix provided to students, 3 categories named "Design Taxonomy", "Area of Focus" and "Sensory Environment" with relevant sub-categories helped to direct the potential nature and use of prototype controller. Using the matrix, the team established:
 
-Design Taxonomy
+**Design Taxonomy**
 * Crowd Participation
   - Increased number of users enhance or instigate increased physical/ emotional/ media/computational response
   
-Area of Focus
+**Area of Focus**
 * Media Architecture
   - Computational display systems incorporated into the physical landscape including screens, lights, and projections.
   
-Sensory Environment
+**Sensory Environment**
 * Visual: Graphic
   - 2D physical imaging technologies that use pigment or found objects, including printing, painting, and mixed media.
+  
 * Visual: Distorion
   - Intentionally or randomly affecting the pattern of a series or sequence of light/pixels/images.
+  
 * Sound: Distortion/Generation
   - Intentionally or randomly affecting the pattern of, or creating of, an audio wave or series.
+  
 * Sound: Sonification
   - Using non-speech audio to perceptualize data.
 
