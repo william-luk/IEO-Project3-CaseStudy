@@ -82,4 +82,4 @@ With student access to myPHP and mySQL, it is entirely possible to store informa
 ## Prototype 1.1
 ### THE FANTASICAL VISUALIZATION
 
-[[Prototype 1.1](/images/proto1-1-thumb.jpg)](https://www.youtube.com/watch?v=__j6FiRErwo)
+[![Prototype 1.1](/images/proto1-1-thumb.jpg)](https://www.youtube.com/watch?v=__j6FiRErwo)
