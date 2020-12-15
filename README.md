@@ -77,3 +77,9 @@ While it would be beneficial to integrate devices particpants already have such 
 [Example project here](https://subscription.packtpub.com/book/hardware_and_creative/9781785286582/1/ch01lvl1sec15/sending-data-to-the-cloud).
 
 With student access to myPHP and mySQL, it is entirely possible to store information in a database from scratch. Students are learning more advanced physical computing functionality and affordances, and very basic SQL and PHP development. The tricky part would be to understand the required PHP code and connections for this to work. It would be a more involved process but entirely free.<br/>[Example project here](https://theiotprojects.com/insert-data-into-mysql-database-with-esp8266/).
+
+<br/>
+## Prototype 1.1
+### THE FANTASICAL VISUALIZATION
+
+[[Prototype 1.1](/images/proto1-1-thumb.jpg)](https://www.youtube.com/watch?v=__j6FiRErwo)
