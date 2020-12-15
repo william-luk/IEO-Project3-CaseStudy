@@ -85,4 +85,13 @@ With student access to myPHP and mySQL, it is entirely possible to store informa
 [![Prototype 1.1](/images/proto1-1-thumb.jpg)](https://www.youtube.com/watch?v=__j6FiRErwo)
 >click image to view video prototype, opens in the same tab
 
+Refering to the team research to expand the type of interactions possbile in a collaborative installation, it was decided that sonification would be added to further the prototype. TouchDesigner can parse multiple inputs that can be sensed through microcontroller components. An additional dynamic input that is easier to implement than limb tracking or radio communication between controllers is an ambient noise sensor. From a participant perspective, the microphone sensor should be sensitive to changes in dB. By doing so, curious users that notice the changes through their Autonomous Interaction. And in a perfect scenario, notify, engage and encourage others to participate, beginning the Forced Group Interaction. The human models are there to visualize someone interacting with the projection, which is an orb that tracks the position of people walking on the projection. Driving the interest to walk on the installation environment will build the ambient noise and trigger more changes for people to discover and identify what interactions have an effect.
+
+<br/>
+## Reflection
+### WHAT COULD HAVE BEEN
+
+Due to the unfortunate circumstances of COVID, the team was unable to provide a real demonstration that would have cemented the practical application of the technology and process developed by Michael and William. This was alleviated with TouchDesigner workflow, as the the possbilities of Wizard of Oz prototyping in the application provide tangible visualizations that coincide with physical computing so well. While the Prototype 1.1 is fairly rudimentary in a larger scale, the processes and functions that are available make TouchDesigner an imperative tool for experiential design systems. The team felt the final prototype to be effective in its ability to be a strong theorhetical pitch for real world usage, as the software and hardware components are demonstrated to work in actuality. The project goal was much different than previous briefs, as the focus was entirely on the design research and contextual frame. Having student's develop the skills in order to sell these technical prototypes is important for work in interaction design.
+
+
 
